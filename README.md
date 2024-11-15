@@ -1,5 +1,14 @@
+                        Mobile Apps Agen Travel
+
+Bussines Domain : 
+Mobile App Agen Travel
+
+Business Process: Penyediaan Informasi Tiket
+
+
+
 Introduction
-Aplikasi Travel Agent adalah sebuah platform mobile yang menyediakan informasi terkait berbagai tiket perjalanan, seperti tiket pesawat, kereta api, bus, dan hotel. Dengan aplikasi ini, pengguna dapat mencari informasi harga, rute, dan jadwal perjalanan. Aplikasi ini hanya berfungsi sebagai platform informasi yang mempermudah pengguna untuk mencari informasi tiket dan perjalanan.
+Aplikasi Agen Travel adalah sebuah platform mobile yang menyediakan informasi terkait berbagai tiket perjalanan, seperti tiket pesawat, kereta api, bus, dan hotel. Dengan aplikasi ini, pengguna dapat mencari informasi harga, rute, dan jadwal perjalanan. Aplikasi ini hanya berfungsi sebagai platform informasi yang mempermudah pengguna untuk mencari informasi tiket dan perjalanan.
 
 Objective
 •	Dapat memperoleh informasi tiket dan perjalanan dengan mudah.
@@ -19,11 +28,11 @@ Criteria:
 1.	Business Requirement Definition
 
     Definisi:
-    Aplikasi Travel Agent adalah aplikasi mobile berbasis Flutter yang menyediakan informasi seputar kategori tiket perjalanan dan akomodasi. Pengguna dapat menavigasi berbagai kategori seperti tiket pesawat, kereta api, bus, dan hotel untuk melihat detail perjalanan, harga tiket, serta rekomendasi liburan. Aplikasi ini berfungsi sebagai sumber informasi wisata tanpa menyediakan fitur pemesanan atau pembayaran, sehingga memudahkan pengguna dalam menemukan opsi perjalanan terbaik sesuai kebutuhan mereka.
+    Aplikasi Agen Travel adalah aplikasi mobile berbasis Flutter yang menyediakan informasi seputar kategori tiket perjalanan dan akomodasi. Pengguna dapat menavigasi berbagai kategori seperti tiket pesawat, kereta api, bus, dan hotel untuk melihat detail perjalanan, harga tiket, serta rekomendasi liburan. Aplikasi ini berfungsi sebagai sumber informasi wisata tanpa menyediakan fitur pemesanan atau pembayaran, sehingga memudahkan pengguna dalam menemukan opsi perjalanan terbaik sesuai kebutuhan mereka.
 
     Abstrak:
 
-    Aplikasi Travel Agent bertujuan untuk menjadi solusi bagi para wisatawan dalam mencari informasi mengenai opsi transportasi dan akomodasi dengan mudah dan cepat. Menggunakan Flutter sebagai framework, aplikasi ini menawarkan antarmuka yang intuitif dan responsif, menampilkan berbagai kategori tiket dan rekomendasi perjalanan. Setiap kategori dapat diakses melalui grid interaktif, yang kemudian mengarahkan pengguna ke halaman informasi spesifik sesuai pilihan. Dengan menyediakan rekomendasi perjalanan serta detail harga tiket dan rute, aplikasi ini berfokus pada pengalaman pengguna yang mencari informasi wisata tanpa fitur transaksi, sehingga tetap ringan dan cepat.
+    Aplikasi Agen Travel bertujuan untuk menjadi solusi bagi para wisatawan dalam mencari informasi mengenai opsi transportasi dan akomodasi dengan mudah dan cepat. Menggunakan Flutter sebagai framework, aplikasi ini menawarkan antarmuka yang intuitif dan responsif, menampilkan berbagai kategori tiket dan rekomendasi perjalanan. Setiap kategori dapat diakses melalui grid interaktif, yang kemudian mengarahkan pengguna ke halaman informasi spesifik sesuai pilihan. Dengan menyediakan rekomendasi perjalanan serta detail harga tiket dan rute, aplikasi ini berfokus pada pengalaman pengguna yang mencari informasi wisata tanpa fitur transaksi, sehingga tetap ringan dan cepat.
 
 2.	Penjelasan Fungsi
     1. Fungsi Teknis :
@@ -49,7 +58,7 @@ Criteria:
         1.	Kinerja:
 
         Memberikan solusi bagi pengguna yang memerlukan informasi perjalanan dengan cepat dan efisien.
-        
+
         2.	Keunggulan:
 
         Antarmuka intuitif untuk pengalaman pengguna yang optimal.
